@@ -162,6 +162,10 @@ include:
   - _pages
   - files
   - assets
+  - images
+  - _publications
+  - _talks
+  - _teaching
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
