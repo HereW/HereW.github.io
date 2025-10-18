@@ -5,4 +5,5 @@ category: manuscripts
 date: 2022-04-01
 venue: 'IEEE Transactions on Wireless Communications (TWC)'
 ---
+Age of information (AoI) critically affects decision making. UAVs are widely used in wireless sensor networks for fresh data collection, but trajectory planning over fixed waypoints is NP-hard. We propose a two-stage AI framework: first, UAV hover positions and transmission times are set via clustering; then, an AoI-minimal path is found with a neural trajectory solver. Compared to classic heuristics, our method reduces AoI, cuts computation time by 100×, scales to thousands of sensors, and matches Google OR-Tools in accuracy while doubling efficiency.
 
