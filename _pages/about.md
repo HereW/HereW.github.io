@@ -18,3 +18,21 @@ My broader research interests include graph similarity search, graph-based vecto
 Outside of research, I enjoy reading, photography, hiking, and writing blogs. Feel free to reach out if you’d like to connect or collaborate! 
 
 You can find my CV here: [English Version](/assets/CV_tianhao.pdf) and [Chinese Version](/assets/CV_tianhao_Chinese.pdf). 
+
+---
+
+## Publications
+
+*These authors contributed equally. 
+
+### CompreGel: Efficient Distributed Graph Propagation via Error-Bounded Lossy Message Compression
+**Tianhao Wu***, Da Yan*, Qihao Cheng*, Lyuheng Yuan, Sheng Di, Jiao Han, Zhongyi Huang, Ji Cheng. 
+Proceedings of the International Conference on Parallel Processing **(ICPP)**, 2025.
+
+### Computing Approximate Graph Edit Distance via Optimal Transport
+Qihao Cheng*, Da Yan*, Tianhao Wu*, Zhongyi Huang, Qin Zhang. 
+Proceedings of the ACM on Management of Data **(SIGMOD)**, 2025.  
+
+---
+
+*(This webpage was last updated on **October 18, 2025**)*
