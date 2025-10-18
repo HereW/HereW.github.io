@@ -26,31 +26,31 @@ You can find my CV here: [English Version](/assets/CV_tianhao.pdf) and [Chinese 
 *These authors contributed equally. 
 
 ### CompreGel: Efficient Distributed Graph Propagation via Error-Bounded Lossy Message Compression
-**Tianhao Wu\***, Da Yan\*, Qihao Cheng\*, Lyuheng Yuan, Sheng Di, Jiao Han, Zhongyi Huang, Ji Cheng. 
+**Tianhao Wu\***, Da Yan\*, Qihao Cheng\*, Lyuheng Yuan, Sheng Di, Jiao Han, Zhongyi Huang, Ji Cheng.  
 *Proceedings of the International Conference on Parallel Processing **(ICPP)**, 2025.*
 
 ### Computing Approximate Graph Edit Distance via Optimal Transport
-Qihao Cheng\*, Da Yan\*, **Tianhao Wu\***, Zhongyi Huang, Qin Zhang. 
+Qihao Cheng\*, Da Yan\*, **Tianhao Wu\***, Zhongyi Huang, Qin Zhang.  
 *Proceedings of the ACM on Management of Data **(SIGMOD)**, 2025.*
 
 ### Efficient Enumeration of Large Maximal k-Plexes
-Qihao Cheng\*, Da Yan\*, **Tianhao Wu\***, Lyuheng Yuan, Ji Cheng, Zhongyi Huang, Yang Zhou. 
+Qihao Cheng\*, Da Yan\*, **Tianhao Wu\***, Lyuheng Yuan, Ji Cheng, Zhongyi Huang, Yang Zhou.  
 *Proceedings of the International Conference on Extending Database Technology **(EDBT)**, 2025.*
 
 ### The Optimal Production Transport: Model and Algorithm
-Jie Fan, **Tianhao Wu**, Hao Wu. 
+Jie Fan, **Tianhao Wu**, Hao Wu.  
 *East Asian Journal on Applied Mathematics, 2024.*
 
 ### ClipSim: A GPU-friendly Parallel Framework for Single-Source SimRank with Accuracy Guarantee
-**Tianhao Wu**, Ji Cheng, Chaorui Zhang, Jianfeng Hou, Gengjian Chen, Zhongyi Huang, Weixi Zhang, Wei Han, Bo Bai.
+**Tianhao Wu**, Ji Cheng, Chaorui Zhang, Jianfeng Hou, Gengjian Chen, Zhongyi Huang, Weixi Zhang, Wei Han, Bo Bai.  
 *Proceedings of the ACM on Management of Data **(SIGMOD)**, 2023.*
 
 ### The Double Regularization Method for Capacity Constrained Optimal Transport
-**Tianhao Wu**, Qihao Cheng, Zihao Wang, Chaorui Zhang, Bo Bai, Zhongyi Huang, Hao Wu
+**Tianhao Wu**, Qihao Cheng, Zihao Wang, Chaorui Zhang, Bo Bai, Zhongyi Huang, Hao Wu  
 *CSIAM Transactions on Applied Mathematics, 2023.*
 
 ### A Novel AI-based Framework for AoI-optimal Trajectory Planning in UAV-assisted Wireless Sensor Networks
-**Tianhao Wu**, Jianfeng Liu, Juan Liu, Zhongyi Huang, Hao Wu, Chaorui Zhang, Bo Bai, Gong Zhang
+**Tianhao Wu**, Jianfeng Liu, Juan Liu, Zhongyi Huang, Hao Wu, Chaorui Zhang, Bo Bai, Gong Zhang  
 *IEEE Transactions on Wireless Communications **(TWC)**, 2022.*
 
 ---
