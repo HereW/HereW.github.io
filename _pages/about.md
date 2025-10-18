@@ -19,4 +19,4 @@ My broader research interests include graph similarity search, graph-based vecto
 
 Outside of research, I enjoy reading, photography, hiking, and writing blogs. Feel free to reach out if you’d like to connect or collaborate! 
 
-You can find my CV here: [English Version](https://herew.github.io/assets/CV_tianhao.pdf) and [Chinese Version](https://herew.github.io/assets/CV_tianhao_Chinese.pdf).
+You can find my CV here: [English Version](/assets/CV_tianhao.pdf) and [Chinese Version](/assets/CV_tianhao_Chinese.pdf).
