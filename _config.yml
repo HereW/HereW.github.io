@@ -9,45 +9,46 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Tianhao Wu's Homepage"
+title                    : "Tianhao Wu | Tianjin University"
 title_separator          : "-"
-name                     : "Tianhao Wu"
-description              : &description "Tianhao's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Tianhao Wu"
+description              : &description "Tianhao Wu, Lecturer at Tianjin University. Optimal transport, graph computing, and efficient algorithms."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://herew.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "HereW/HereW.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar    : "profile.png"
-  name      : "Tianhao Wu (吴天昊)"
-  pronouns  : "he/him"
-  bio       : "Postdoctoral researcher in graph algorithms and optimization."
-  location  : "Singapore"
-  employer  : "Nanyang Technological University"
-  email     : "tianhao.wu@ntu.edu.sg"
+  avatar           : # TODO: personal portrait
+  name             : "Tianhao Wu"
+  pronouns         : # example: "she/her"  
+  bio              : "Lecturer, Center for Applied Mathematics"
+  location         : "Tianjin, China"
+  employer         : "Tianjin University"
+  uri              : # URL
+  email            : # TODO: confirm permission to publish institutional email. 
 
   # Academic websites
-  # academia         : # URL
-  # arxiv            : # URL - Update with the correct link to your profile
+  academia         : # URL
+  arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=kcrZj-sAAAAJ&hl=en"
-  # inspire-hep      : # URL
-  # impactstory      : # URL
+  inspire-hep      : # URL
+  impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-6141-5512"
-  # semantic         : # URL
-  # pubmed           : # URL
-  # researchgate     : # URL
-  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57197812865" # URL
+  semantic         : # URL
+  pubmed           :
+  researchgate     : # URL
+  scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : 
+  github           : "HereW"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -121,7 +122,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
@@ -161,11 +162,6 @@ include:
   - .htaccess
   - _pages
   - files
-  - assets
-  - images
-  - _publications
-  - _talks
-  - _teaching
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
